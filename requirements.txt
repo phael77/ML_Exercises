@@ -3,3 +3,4 @@ numpy
 keras
 plotly
 seaborn
+tensorflow
